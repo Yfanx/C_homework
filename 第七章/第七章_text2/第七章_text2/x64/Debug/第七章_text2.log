@@ -1,0 +1,4 @@
+﻿  第七章_text2.c
+D:\project\第七章_text2\第七章_text2\第七章_text2.c(34,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\project\第七章_text2\第七章_text2\第七章_text2.c(35,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  第七章_text2.vcxproj -> D:\project\第七章_text2\x64\Debug\第七章_text2.exe

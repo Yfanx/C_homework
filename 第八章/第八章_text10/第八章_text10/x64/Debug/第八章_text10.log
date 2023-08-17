@@ -1,0 +1,3 @@
+﻿  第八章_text10.c
+D:\project\第八章_text10\第八章_text10\第八章_text10.c(11,33): warning C4047: “=”:“int *”与“int (*)[5]”的间接级别不同
+  第八章_text10.vcxproj -> D:\project\第八章_text10\x64\Debug\第八章_text10.exe

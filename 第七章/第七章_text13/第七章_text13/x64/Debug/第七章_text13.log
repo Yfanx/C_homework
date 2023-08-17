@@ -1,0 +1,3 @@
+﻿  第七章_text13.c
+D:\project\第七章\第七章_text13\第七章_text13\第七章_text13.c(18,10): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+  第七章_text13.vcxproj -> D:\project\第七章\第七章_text13\x64\Debug\第七章_text13.exe

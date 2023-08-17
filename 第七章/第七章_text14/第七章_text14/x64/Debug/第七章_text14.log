@@ -1,0 +1,4 @@
+﻿  第七章_text14.c
+D:\project\第七章\第七章_text14\第七章_text14\第七章_text14.c(64,6): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\project\第七章\第七章_text14\第七章_text14\第七章_text14.c(69,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  第七章_text14.vcxproj -> D:\project\第七章\第七章_text14\x64\Debug\第七章_text14.exe

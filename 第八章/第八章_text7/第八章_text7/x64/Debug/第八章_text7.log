@@ -1,0 +1,4 @@
+﻿  第八章_text7.c
+D:\project\第八章_text7\第八章_text7\第八章_text7.c(10,2): warning C4013: “gets”未定义；假设外部返回 int
+D:\project\第八章_text7\第八章_text7\第八章_text7.c(11,6): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  第八章_text7.vcxproj -> D:\project\第八章_text7\x64\Debug\第八章_text7.exe

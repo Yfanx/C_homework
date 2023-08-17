@@ -1,0 +1,8 @@
+﻿  源.cpp
+D:\project\测试\Project1\源.cpp(8,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\project\测试\Project1\源.cpp(8,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\project\测试\Project1\源.cpp(8,10): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\project\测试\Project1\源.cpp(8,10): message : 此参数用作缓冲区大小
+D:\project\测试\Project1\源.cpp(16,2): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+源.obj : error LNK2019: 无法解析的外部符号 "void __cdecl inverse(char * const)" (?inverse@@YAXQEAD@Z)，函数 main 中引用了该符号
+D:\project\测试\x64\Debug\Project1.exe : fatal error LNK1120: 1 个无法解析的外部命令

@@ -1,0 +1,5 @@
+﻿  第八章_text13.c
+D:\project\第八章_text13\第八章_text13\第八章_text13.c(44,9): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\project\第八章_text13\第八章_text13\第八章_text13.c(48,9): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\project\第八章_text13\第八章_text13\第八章_text13.c(52,9): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  第八章_text13.vcxproj -> D:\project\第八章_text13\x64\Debug\第八章_text13.exe

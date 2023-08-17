@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "第一章_3比较三个数大小", "第一章_3比较三个数大小\第一章_3比较三个数大小.vcxproj", "{D6D8D98F-24BF-43A5-97CA-8C62E10D7130}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6D8D98F-24BF-43A5-97CA-8C62E10D7130}.Debug|x64.ActiveCfg = Debug|x64
+		{D6D8D98F-24BF-43A5-97CA-8C62E10D7130}.Debug|x64.Build.0 = Debug|x64
+		{D6D8D98F-24BF-43A5-97CA-8C62E10D7130}.Debug|x86.ActiveCfg = Debug|Win32
+		{D6D8D98F-24BF-43A5-97CA-8C62E10D7130}.Debug|x86.Build.0 = Debug|Win32
+		{D6D8D98F-24BF-43A5-97CA-8C62E10D7130}.Release|x64.ActiveCfg = Release|x64
+		{D6D8D98F-24BF-43A5-97CA-8C62E10D7130}.Release|x64.Build.0 = Release|x64
+		{D6D8D98F-24BF-43A5-97CA-8C62E10D7130}.Release|x86.ActiveCfg = Release|Win32
+		{D6D8D98F-24BF-43A5-97CA-8C62E10D7130}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5782695D-F4D1-4F18-B62B-F2916C552617}
+	EndGlobalSection
+EndGlobal

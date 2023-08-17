@@ -1,0 +1,4 @@
+﻿  第七章_text8.c
+D:\project\第七章_text8\第七章_text8\第七章_text8.c(7,6): warning C4101: “i”: 未引用的局部变量
+D:\project\第七章_text8\第七章_text8\第七章_text8.c(18,11): warning C4013: “strlen”未定义；假设外部返回 int
+  第七章_text8.vcxproj -> D:\project\第七章_text8\x64\Debug\第七章_text8.exe

@@ -1,0 +1,4 @@
+﻿  第五章_text13.c
+D:\project\第五章_text13\第五章_text13\第五章_text13.c(10,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\project\第五章_text13\第五章_text13\第五章_text13.c(14,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  第五章_text13.vcxproj -> D:\project\第五章_text13\x64\Debug\第五章_text13.exe

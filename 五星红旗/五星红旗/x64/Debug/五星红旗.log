@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\project\五星红旗\五星红旗\源.cpp(13,44): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\project\五星红旗\五星红旗\源.cpp(14,44): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  五星红旗.vcxproj -> D:\project\五星红旗\x64\Debug\五星红旗.exe

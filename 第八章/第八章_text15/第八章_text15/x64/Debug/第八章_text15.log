@@ -1,0 +1,5 @@
+﻿  第八章_text15.c
+D:\project\第八章_text15\第八章_text15\第八章_text15.c(24,11): warning C4047: “=”:“int *”与“int (*)[6]”的间接级别不同
+D:\project\第八章_text15\第八章_text15\第八章_text15.c(26,6): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\project\第八章_text15\第八章_text15\第八章_text15.c(61,8): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+  第八章_text15.vcxproj -> D:\project\第八章_text15\x64\Debug\第八章_text15.exe

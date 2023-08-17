@@ -1,0 +1,7 @@
+﻿  源.c
+D:\project\Project3\Project3\源.c(20,26): error C2065: “A”: 未声明的标识符
+D:\project\Project3\Project3\源.c(20,37): error C2065: “B”: 未声明的标识符
+D:\project\Project3\Project3\源.c(20,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\project\Project3\Project3\源.c(20,9): message : 请考虑在格式字符串中使用“%zd”
+D:\project\Project3\Project3\源.c(20,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\project\Project3\Project3\源.c(20,9): message : 请考虑在格式字符串中使用“%zd”

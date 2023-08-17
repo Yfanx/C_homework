@@ -1,0 +1,9 @@
+﻿  第三章_text2.c
+D:\project\第三章_text2\第三章_text2\第三章_text2.c(8,12): warning C4305: “=”: 从“double”到“float”截断
+D:\project\第三章_text2\第三章_text2\第三章_text2.c(9,12): warning C4305: “=”: 从“double”到“float”截断
+D:\project\第三章_text2\第三章_text2\第三章_text2.c(10,13): warning C4305: “=”: 从“double”到“float”截断
+D:\project\第三章_text2\第三章_text2\第三章_text2.c(11,11): warning C4305: “=”: 从“double”到“float”截断
+D:\project\第三章_text2\第三章_text2\第三章_text2.c(12,13): warning C4305: “=”: 从“double”到“float”截断
+D:\project\第三章_text2\第三章_text2\第三章_text2.c(17,9): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\project\第三章_text2\第三章_text2\第三章_text2.c(18,9): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  第三章_text2.vcxproj -> D:\project\第三章_text2\x64\Debug\第三章_text2.exe

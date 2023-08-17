@@ -1,0 +1,66 @@
+﻿  3.17.cpp
+D:\project\Project6\Project6\3.17.cpp(38,21): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\project\Project6\Project6\3.17.cpp(45,21): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\project\Project6\Project6\3.17.cpp(57,8): warning C4101: “t”: 未引用的局部变量
+D:\vs2022\VC\Tools\MSVC\14.35.32215\include\xutility(1137,27): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\vs2022\VC\Tools\MSVC\14.35.32215\include\xutility(1136,16): message : 查看对正在编译的函数 模板 实例化“bool std::_Debug_lt_pred<bool(__cdecl *&)(int,int),__int64&,__int64&,0>(_Pr,_Ty1,_Ty2) noexcept(<expr>)”的引用
+          with
+          [
+              _Pr=bool (__cdecl *&)(int,int),
+              _Ty1=__int64 &,
+              _Ty2=__int64 &
+          ]
+D:\vs2022\VC\Tools\MSVC\14.35.32215\include\algorithm(7866): message : 查看对正在编译的函数 模板 实例化“_BidIt *std::_Insertion_sort_unchecked<_RanIt,bool(__cdecl *)(int,int)>(const _BidIt,const _BidIt,_Pr)”的引用
+          with
+          [
+              _BidIt=__int64 *,
+              _RanIt=__int64 *,
+              _Pr=bool (__cdecl *)(int,int)
+          ]
+D:\vs2022\VC\Tools\MSVC\14.35.32215\include\algorithm(7896): message : 查看对正在编译的函数 模板 实例化“void std::_Sort_unchecked<_RanIt,bool(__cdecl *)(int,int)>(_RanIt,_RanIt,__int64,_Pr)”的引用
+          with
+          [
+              _RanIt=__int64 *,
+              _Pr=bool (__cdecl *)(int,int)
+          ]
+D:\project\Project6\Project6\3.17.cpp(31,20): message : 查看对正在编译的函数 模板 实例化“void std::sort<__int64*,bool(__cdecl *)(int,int)>(const _RanIt,const _RanIt,_Pr)”的引用
+          with
+          [
+              _RanIt=__int64 *,
+              _Pr=bool (__cdecl *)(int,int)
+          ]
+D:\vs2022\VC\Tools\MSVC\14.35.32215\include\xutility(1137,20): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\vs2022\VC\Tools\MSVC\14.35.32215\include\xutility(1137,62): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\vs2022\VC\Tools\MSVC\14.35.32215\include\xutility(1137,54): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\vs2022\VC\Tools\MSVC\14.35.32215\include\algorithm(7804,32): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\vs2022\VC\Tools\MSVC\14.35.32215\include\algorithm(7866): message : 查看对正在编译的函数 模板 实例化“std::pair<_RanIt,_RanIt> std::_Partition_by_median_guess_unchecked<_RanIt,bool(__cdecl *)(int,int)>(_RanIt,_RanIt,_Pr)”的引用
+          with
+          [
+              _RanIt=__int64 *,
+              _Pr=bool (__cdecl *)(int,int)
+          ]
+D:\vs2022\VC\Tools\MSVC\14.35.32215\include\algorithm(7804,22): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\vs2022\VC\Tools\MSVC\14.35.32215\include\algorithm(7808,92): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\vs2022\VC\Tools\MSVC\14.35.32215\include\algorithm(7808,82): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\vs2022\VC\Tools\MSVC\14.35.32215\include\algorithm(7819,40): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\vs2022\VC\Tools\MSVC\14.35.32215\include\algorithm(7819,30): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\vs2022\VC\Tools\MSVC\14.35.32215\include\algorithm(7832,40): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\vs2022\VC\Tools\MSVC\14.35.32215\include\algorithm(7832,30): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\vs2022\VC\Tools\MSVC\14.35.32215\include\xutility(1139,57): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\vs2022\VC\Tools\MSVC\14.35.32215\include\algorithm(7739): message : 查看对正在编译的函数 模板 实例化“bool std::_Debug_lt_pred<bool(__cdecl *&)(int,int),__int64&,__int64&,0>(_Pr,_Ty1,_Ty2) noexcept(false)”的引用
+          with
+          [
+              _Pr=bool (__cdecl *&)(int,int),
+              _Ty1=__int64 &,
+              _Ty2=__int64 &
+          ]
+D:\vs2022\VC\Tools\MSVC\14.35.32215\include\algorithm(7866): message : 查看对正在编译的函数 模板 实例化“_BidIt *std::_Insertion_sort_unchecked<_RanIt,bool(__cdecl *)(int,int)>(const _BidIt,const _BidIt,_Pr)”的引用
+          with
+          [
+              _BidIt=__int64 *,
+              _RanIt=__int64 *,
+              _Pr=bool (__cdecl *)(int,int)
+          ]
+D:\vs2022\VC\Tools\MSVC\14.35.32215\include\xutility(1139,50): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\vs2022\VC\Tools\MSVC\14.35.32215\include\xutility(1141,9): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  Project6.vcxproj -> D:\project\Project6\x64\Debug\Project6.exe
